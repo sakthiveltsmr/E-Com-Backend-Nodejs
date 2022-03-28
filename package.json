@@ -8,5 +8,23 @@
     "mongoose": "^6.2.8",
     "nodemon": "^2.0.15",
     "stripe": "^8.212.0"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakthiveltsmr/E-Com-Backend-Nodejs.git"
+  },
+  "author": "sakthi <sakthiveltsmr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakthiveltsmr/E-Com-Backend-Nodejs/issues"
+  },
+  "homepage": "https://github.com/sakthiveltsmr/E-Com-Backend-Nodejs#readme",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "description": ""
 }
